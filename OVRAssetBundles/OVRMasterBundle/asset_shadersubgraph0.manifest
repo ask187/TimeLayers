@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 1760026359
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8bd85506763a563f417cca0653fd7597
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 8bd85506763a563f417cca0653fd7597
+HashAppended: 0
+ClassTypes: []
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Samples/XR Interaction Toolkit/3.0.8/Hands Interaction Demo/Shaders/Subgraphs/AllFingerHighlights.shadersubgraph
+- Assets/Samples/XR Interaction Toolkit/3.0.8/Hands Interaction Demo/Shaders/Subgraphs/FadeFromCenterWithNoise.shadersubgraph
+- Assets/Samples/XR Interaction Toolkit/3.0.8/Hands Interaction Demo/Shaders/Subgraphs/OneFingerHighlight.shadersubgraph
+- Assets/Samples/XR Interaction Toolkit/3.0.8/Hands Interaction Demo/Shaders/Subgraphs/EdgeHighlight.shadersubgraph
+Dependencies: []

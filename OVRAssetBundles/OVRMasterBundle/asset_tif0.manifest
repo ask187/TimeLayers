@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 2332604686
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 57ace3245b761300c71bdb30b004c280
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 57ace3245b761300c71bdb30b004c280
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Samples/XR Interaction Toolkit/3.0.8/Starter Assets/DemoSceneAssets/Textures/Concrete_Normal.tif
+- Assets/Simple Vehicle Pack/Textures/bus_AO.tif
+- Assets/Simple Vehicle Pack/Textures/bus_metallic.tif
+- Assets/Simple Vehicle Pack/Textures/bus_albedo.tif
+- Assets/Simple Vehicle Pack/Textures/cars_albedo.tif
+- Assets/Simple Vehicle Pack/Textures/cars_metallic.tif
+- Assets/Simple Vehicle Pack/Textures/cars_AO.tif
+Dependencies: []

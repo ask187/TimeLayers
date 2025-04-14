@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 3758843959
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 651a577840b5e6ec580c05e2725c8b8c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 651a577840b5e6ec580c05e2725c8b8c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Meshes/Pillars/Stage/Textures/Pillar stage normal.tga
+- Assets/Meshes/Pillars/Stage/Textures/Pillar stage diffuse.tga
+Dependencies: []

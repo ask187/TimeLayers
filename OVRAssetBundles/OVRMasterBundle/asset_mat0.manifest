@@ -1,0 +1,59 @@
+ManifestFileVersion: 0
+CRC: 1874228183
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e41b8cc9a394a3bdbcf6d53e7bd968e9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: e41b8cc9a394a3bdbcf6d53e7bd968e9
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Clock-Assets/Past-Clock/Materials/StoneClock_albedo.mat
+- Assets/Samples/XR Interaction Toolkit/3.0.8/Starter Assets/Materials/Flat Blue.mat
+- Assets/Samples/XR Hands/1.5.0/HandVisualizer/Materials/White.mat
+- Assets/Samples/XR Interaction Toolkit/3.0.8/Starter Assets/Materials/FresnelHighlight.mat
+- Assets/TimeLayers/futuristic objects/wall textures/Materials/spaceship-panels1-metallic.mat
+- Assets/Samples/XR Interaction Toolkit/3.0.8/Starter Assets/Materials/Controller_Grey.mat
+- Assets/Samples/XR Hands/1.5.0/HandVisualizer/Materials/Blue.mat
+- Assets/TimeLayers/old age objects/curtains/Materials/425 1.mat
+- Assets/Samples/XR Hands/1.5.0/HandVisualizer/Materials/Red.mat
+- Assets/Samples/XR Interaction Toolkit/3.0.8/Starter Assets/Materials/UI-NoZTest.mat
+- Assets/Materials 1/White.mat
+- Assets/Samples/XR Hands/1.5.0/HandVisualizer/Materials/Green.mat
+- Assets/Materials 1/Glass.mat
+- Assets/TimeLayers/old age objects/Materials/wall_floor_ceiling_texture.mat
+- Assets/TimeLayers/old age objects/Cave Painting decoration/Materials/Painting.mat
+- Packages/com.unity.render-pipelines.universal/Runtime/Materials/TerrainLit.mat
+- Assets/Samples/XR Interaction Toolkit/3.0.8/Starter Assets/Materials/Controller_White.mat
+- Assets/Samples/XR Interaction Toolkit/3.0.8/Starter Assets/Materials/Interactable.mat
+- Assets/TimeLayers/old age objects/Materials/grey-wall 1.mat
+- Assets/Clock-Assets/Future-Clock/textures/timer.mat
+- Assets/TimeLayers/futuristic objects/floor texture/Materials/modern-metal-wall_ao.mat
+- Assets/TimeLayers/old age objects/Materials/white2-rock-furniture-texture.mat
+- Assets/Samples/XR Interaction Toolkit/3.0.8/Hands Interaction Demo/Materials/DepthOnly.mat
+- Assets/Simple Vehicle Pack/Materials/Cars_1.mat
+- Assets/Samples/XR Interaction Toolkit/3.0.8/Starter Assets/Materials/Telport Anchor.mat
+- Packages/com.unity.render-pipelines.universal/Runtime/Materials/Lit.mat
+- Assets/Meshes/Pillars/Stage/Materials/Pillar stage Mat.mat
+- Assets/TimeLayers/old age objects/Materials/white-rock-furniture-texture.mat
+- Assets/Samples/XR Hands/1.5.0/HandVisualizer/Materials/TransparentRed.mat
+- Assets/TimeLayers/futuristic objects/tv1/Materials/Screen01_Color_4K.mat
+Dependencies:
+- D:/Projects/Personal/Unity/TimeLayers/OVRAssetBundles/OVRMasterBundle/asset_jpg0
+- D:/Projects/Personal/Unity/TimeLayers/OVRAssetBundles/OVRMasterBundle/asset_png0
+- D:/Projects/Personal/Unity/TimeLayers/OVRAssetBundles/OVRMasterBundle/asset_shader0
+- D:/Projects/Personal/Unity/TimeLayers/OVRAssetBundles/OVRMasterBundle/asset_shadergraph0
+- D:/Projects/Personal/Unity/TimeLayers/OVRAssetBundles/OVRMasterBundle/asset_tga0
+- D:/Projects/Personal/Unity/TimeLayers/OVRAssetBundles/OVRMasterBundle/asset_tif0
