@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 1058163309
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4052fce6271d2d529e053f9bf4aeb794
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 4052fce6271d2d529e053f9bf4aeb794
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Clock-Assets/Future-Clock/textures/timer_emissive.jpg
+- Assets/Clock-Assets/Past-Clock/textures/StoneClock_albedo.jpg
+- Assets/TimeLayers/old age objects/wall_floor_ceiling_texture.jpg
+- Assets/TimeLayers/old age objects/Cave Painting decoration/Painting.jpg
+- Assets/TimeLayers/old age objects/curtains/425 1.jpg
+Dependencies: []

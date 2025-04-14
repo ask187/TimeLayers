@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 2913775559
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 27486c5e174590bb2110b16a6b6bf2da
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 27486c5e174590bb2110b16a6b6bf2da
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Samples/XR Interaction Toolkit/3.0.8/Hands Interaction Demo/Materials/Unity_Hand_Medium.mat
+- Assets/TimeLayers/old age objects/Materials/grey-wall.mat
+- Assets/Simple Vehicle Pack/Models/Materials/No Name.mat
+- Assets/Simple Vehicle Pack/Materials/Bus_1.mat
+- Assets/Clock-Assets/Future-Clock/Materials/timer_emissive.mat
+- Assets/TimeLayers/futuristic objects/wall textures/Materials/spaceship-panels1-metallic
+  small wall.mat
+Dependencies:
+- D:/Projects/Personal/Unity/TimeLayers/OVRAssetBundles/OVRMasterBundle/asset_jpg0
+- D:/Projects/Personal/Unity/TimeLayers/OVRAssetBundles/OVRMasterBundle/asset_png0
+- D:/Projects/Personal/Unity/TimeLayers/OVRAssetBundles/OVRMasterBundle/asset_shader0
+- D:/Projects/Personal/Unity/TimeLayers/OVRAssetBundles/OVRMasterBundle/asset_shadergraph0
+- D:/Projects/Personal/Unity/TimeLayers/OVRAssetBundles/OVRMasterBundle/asset_tif0

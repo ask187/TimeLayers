@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 578106699
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 84df5bd4e16e544fbedc8f7b49142d6f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 147058da82bee871bbce28e472030442
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 84df5bd4e16e544fbedc8f7b49142d6f
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Samples/XR Interaction Toolkit/3.0.8/Starter Assets/Animations/Climb Teleport
+  Arrow.controller
+Dependencies:
+- D:/Projects/Personal/Unity/TimeLayers/OVRAssetBundles/OVRMasterBundle/asset_anim0

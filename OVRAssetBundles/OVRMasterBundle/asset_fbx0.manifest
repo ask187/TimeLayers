@@ -1,0 +1,50 @@
+ManifestFileVersion: 0
+CRC: 1936407209
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5495c52a27bfe7cd4b760be72147af58
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 48397b2373668c6117920ccb41f4a43d
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 5495c52a27bfe7cd4b760be72147af58
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Clock-Assets/Past-Clock/clock.fbx
+- Assets/Samples/XR Hands/1.5.0/HandVisualizer/Models/RightHand.fbx
+- Assets/Clock-Assets/Present-Clock/clock.fbx
+- Assets/Clock-Assets/Future-Clock/p_25_timer_sf.fbx
+- Assets/Samples/XR Interaction Toolkit/3.0.8/Starter Assets/Models/BlinkVisual.fbx
+- Assets/Samples/XR Interaction Toolkit/3.0.8/Starter Assets/Models/UniversalController.fbx
+- Assets/Samples/XR Interaction Toolkit/3.0.8/Starter Assets/Models/Pinch_Pointer_LOD0.fbx
+- Assets/TimeLayers/present day objects/chair.fbx
+- Assets/Samples/XR Interaction Toolkit/3.0.8/Starter Assets/Models/Reticle_Torus.fbx
+- Assets/TimeLayers/old age objects/chair.fbx
+- Assets/TimeLayers/futuristic objects/table1.fbx
+- Assets/Samples/XR Hands/1.5.0/HandVisualizer/Models/LeftHand.fbx
+- Assets/TimeLayers/futuristic objects/chair1.fbx
+- Assets/TimeLayers/present day objects/table.fbx
+- Assets/TimeLayers/old age objects/table2.fbx
+Dependencies:
+- D:/Projects/Personal/Unity/TimeLayers/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- D:/Projects/Personal/Unity/TimeLayers/OVRAssetBundles/OVRMasterBundle/asset_shader0
