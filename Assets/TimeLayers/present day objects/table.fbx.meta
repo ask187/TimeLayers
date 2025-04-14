@@ -3,7 +3,17 @@ guid: 2f71593a11701474a92ea04e8d01f07c
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat
+    second: {fileID: 2100000, guid: 114d151cad5d03345abb36aedbf2160f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wooden_Beam_tgnhde0fa
+    second: {fileID: 2100000, guid: ad397a97a894e3146b3c97d6ab4b76bb, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

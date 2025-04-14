@@ -3,7 +3,27 @@ guid: 838b859982d17fe4eb33599e35879f5c
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chair_blue
+    second: {fileID: 2100000, guid: e4554357d0459f4449b961e4cc71a7a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: b35c24d613d2e0e42986cc57c4499e20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert2
+    second: {fileID: 2100000, guid: c07964ade99db8749a1b9a248a3acce8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert3
+    second: {fileID: 2100000, guid: c27939815279c8746859301e5a1d0b60, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

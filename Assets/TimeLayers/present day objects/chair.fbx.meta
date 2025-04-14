@@ -3,7 +3,32 @@ guid: eff113bfdd167a04db3058c1258cb615
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat
+    second: {fileID: 2100000, guid: 114d151cad5d03345abb36aedbf2160f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat.1
+    second: {fileID: 2100000, guid: 9601b4f83001f5b4fb53f18c509d769a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plywood_vdcjfiw.1
+    second: {fileID: 2100000, guid: ad397a97a894e3146b3c97d6ab4b76bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plywood_vdcjfiw.1_1
+    second: {fileID: 2100000, guid: 5170b5f15bc72cf478c4d8e43706f74b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Studded_Leather_tlooadar
+    second: {fileID: 2100000, guid: eb1b1e9ae36f31c45bc1d2b990279a02, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
